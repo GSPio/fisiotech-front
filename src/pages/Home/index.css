@@ -1,0 +1,18 @@
+.Home {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.Home div {
+    width: 80%;
+    height: 500px;
+    margin-top: 5%;
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+ul {
+    list-style: none;
+}
